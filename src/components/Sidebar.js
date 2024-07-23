@@ -1,4 +1,3 @@
-// src/components/Sidebar.js
 import React from 'react';
 import styled from 'styled-components';
 import { FaEnvelope, FaPhone, FaBirthdayCake, FaMapMarkerAlt } from 'react-icons/fa';

@@ -1,4 +1,3 @@
-// src/components/MainContent.js
 import React from 'react';
 import styled from 'styled-components';
 import { FaDesktop, FaCode, FaMobileAlt, FaCamera } from 'react-icons/fa';
